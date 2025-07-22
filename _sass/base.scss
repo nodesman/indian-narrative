@@ -1,0 +1,51 @@
+// Typography
+$base-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+$heading-font-family: "Georgia", "Times New Roman", serif;
+
+// Colors
+$brand-color: #FF9933; // Saffron
+$text-color: #333;
+$background-color: #fdfdfd;
+$link-color: #138808; // Green
+$link-hover-color: #000080; // Navy Blue
+
+// Layout
+$content-width: 800px;
+$base-font-size: 18px;
+$base-line-height: 1.6;
+
+body {
+  background-image: url("../images/background.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  color: $text-color;
+  font-family: $base-font-family;
+  font-size: $base-font-size;
+  line-height: $base-line-height;
+  margin: 0;
+  padding: 2rem;
+  display: flex;
+  justify-content: center;
+}
+
+.container {
+  max-width: $content-width;
+  width: 100%;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: $heading-font-family;
+  color: $brand-color;
+  margin-bottom: 1rem;
+}
+
+a {
+  color: $link-color;
+  text-decoration: none;
+  transition: color 0.2s ease-in-out;
+}
+
+a:hover {
+  color: $link-hover-color;
+}
