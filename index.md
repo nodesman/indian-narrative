@@ -1,9 +1,7 @@
 ---
 layout: default
-title: "The Indian Narrative: Reclaiming Our Story"
+title: "Home"
 ---
-
-## Welcome to The Indian Narrative
 
 This is a collective effort to build a centralized platform for Indian voices, knowledge, and perspectives. Our mission is to empower Indians to shape their own narrative, free from external distortions and misinterpretations.
 

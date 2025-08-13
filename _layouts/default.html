@@ -5,10 +5,25 @@
     <meta charset="utf-8">
     <title>{{ page.title }} - {{ site.title }}</title>
     <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
+    <link href="https://fonts.googleapis.com/css2?family=Lora:wght@400;700&family=Roboto:wght@400;700&display=swap" rel="stylesheet">
   </head>
   <body>
-    <div class="container">
-      {{ content }}
-    </div>
+    <aside class="sidebar">
+      <div class="sidebar-header">
+        <a href="{{"/" | relative_url }}">The Indian Narrative</a>
+      </div>
+      <nav class="sidebar-nav">
+        <a href="{{"/" | relative_url }}">Home</a>
+        <a href="{{"/european-narrative/" | relative_url }}">European Narrative</a>
+        <a href="{{"/anglophone-narrative/" | relative_url }}">Anglophone Narrative</a>
+        <a href="{{"/chinese-narrative/" | relative_url }}">Chinese Narrative</a>
+      </nav>
+    </aside>
+    <main class="main-content">
+      <div class="container">
+        <h1>{{ page.title }}</h1>
+        {{ content }}
+      </div>
+    </main>
   </body>
 </html>
