@@ -11,7 +11,6 @@ The "European Narrative" is not a monolith. It is a complex tapestry of overlapp
     <button class="tab-button active" onclick="openTab(event, 'overarching')">Overarching Narrative</button>
     <button class="tab-button" onclick="openTab(event, 'post-colonial')">Post-Colonial Powers</button>
     <button class="tab-button" onclick="openTab(event, 'pragmatists')">Economic Pragmatists</button>
-    <button class="tab-button" onclick="openTab(event, 'post-soviet')">Post-Soviet Bloc</button>
   </div>
 
   <div id="overarching" class="tab-content" style="display:block;" markdown="1">
@@ -51,20 +50,6 @@ This narrative is less burdened by colonial baggage and is overwhelmingly focuse
     *   **The "G20 Partner" Frame (Italy/Spain):** For other major economies, the narrative is simpler. India is a fellow G20 member, a major economy, and a vital partner in global economic governance. Their engagement is less about history and more about trade balances, market access for their own goods (e.g., Italian luxury brands), and cooperation in international forums.
     *   **Agnostic on Internal Affairs:** These nations are generally less interested in lecturing India on its internal social issues, unless it directly impacts the business environment.
 *   **Strategic Implication for India:** These are our natural partners for building the industrial and technological capacity we need. The relationship must be framed in terms of mutual economic benefit and co-creation of technology.
-  </div>
-
-  <div id="post-soviet" class="tab-content" markdown="1">
-### The Post-Soviet Bloc (Poland, Czechia, etc.)
-
-This is the most distinct and often overlooked narrative, shaped by a completely different 20th-century experience of foreign domination.
-
-*   **Core Motivation:** **A pragmatic search for non-traditional partners to enhance their own sovereignty.**
-*   **Key Characteristics:**
-    *   **Absence of Colonial Baggage:** This is the defining feature. They have no colonial past with India to justify or apologize for. This removes the entire layer of psychological superiority/inferiority that complicates the relationship with Western Europe.
-    *   **A Shared History of "Throwing Off the Yoke":** Their national story is one of successfully escaping the domination of a larger power (the Soviet Union). They are therefore more likely to view India's "strategic autonomy" and assertive foreign policy not with suspicion, but with a degree of admiration and understanding.
-    *   **The Legacy of Friendship:** During the Cold War, India maintained warm relations with the Eastern Bloc. This created a reservoir of goodwill and a generation of leaders and diplomats who view India positively.
-    *   **A Hedge Against Russia/Germany:** For many of these nations, a strong relationship with a distant, non-threatening major power like India is a valuable hedge against the influence of their larger neighbors, Russia and Germany.
-*   **Strategic Implication for India:** These nations are our natural allies within the EU. They are more likely to understand our position on issues of national sovereignty and can be cultivated as key partners to balance the influence of the larger Western European powers.
   </div>
 </div>
 
