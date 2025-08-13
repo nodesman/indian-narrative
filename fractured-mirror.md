@@ -18,6 +18,10 @@ This is our most dangerous internal vulnerability. It paralyzes national progres
 *   **Colorism:** The widespread societal preference for lighter skin is a direct colonial import that we have internalized with devastating effect. It fuels a massive cosmetics industry, creates psychological harm, and reinforces racist tropes.
 *   **Regional and Linguistic Chauvinism:** The "North vs. South" debate is the most prominent example, but this friction exists across the country. When it moves from friendly rivalry to genuine prejudice, it hinders the free movement of talent and ideas and creates unnecessary political conflict.
 
+*   **The Weaponization of Purity (Diet and Regional Chauvinism):** A particularly toxic narrative, often promoted by some groups in North India, is the false equation of vegetarianism with spiritual purity. This is used as a cover for regional chauvinism to look down upon the dietary habits of Marathis, Bengalis, South Indians, and others.
+
+    **Let us be unequivocally clear: This is a historically and theologically ignorant position.** Hinduism is a vast, pluralistic tradition. Countless revered deities, sages, and warriors in our scriptures were non-vegetarians. Innumerable Hindu communities, from Kashmiri Pandits to coastal fishing villages to Bengali Brahmins, have valid, ancient, and unbroken traditions of eating meat. **A Hindu who eats meat is no less a Hindu.** To claim otherwise is an act of bigotry, not piety. It is an attempt to gatekeep a faith that belongs to a billion people and to replace its beautiful diversity with a narrow, intolerant uniformity. It is a self-goal of the highest order.
+
 ---
 
 ### Why It Is a Strategic Self-Goal
