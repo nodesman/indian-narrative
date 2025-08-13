@@ -121,6 +121,12 @@ body {
   font-size: 0.95rem;
 }
 
+.nav-category-link {
+  font-size: 0.95rem;
+  color: var(--link-color);
+}
+
+
 
 .nav-subcategory-title {
   padding: 0.75rem 1.25rem 0.25rem;
@@ -229,6 +235,16 @@ body {
   padding: 1.5rem 2rem;
   background-color: var(--primary-bg);
 }
+
+/* --- Hero Image --- */
+.hero-image {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  margin-bottom: 2rem;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+
 
 
 

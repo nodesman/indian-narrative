@@ -3,6 +3,8 @@ layout: default
 title: "Home"
 ---
 
+<img src="{{ "/assets/images/hero-narrative.png" | relative_url }}" alt="The Indian Narrative" class="hero-image">
+
 ## The Story of You is Not Your Own
 
 The story of who you are—as a person of Indian origin—is not entirely your own. It is being written for you, every single day, in newsrooms in London, on servers in Beijing, in think tanks in Washington, and in the multiplexes of Hollywood.
