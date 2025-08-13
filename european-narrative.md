@@ -7,7 +7,7 @@ permalink: /european-narrative/
 The "European Narrative" is not a monolith. It is a complex tapestry of overlapping but distinct perspectives, shaped by vastly different histories with India. To engage effectively, we must understand these different "narrative clusters."
 
 <div class="narrative-clusters-container">
-  <div class="narrative-cluster-card">
+  <div class="narrative-cluster-card" markdown="1">
     
 ## 1. The Post-Colonial Powers
 
@@ -22,7 +22,7 @@ The primary driver is a **competition with their own history**. To maintain a po
 This translates into a subtle but persistent sense of superiority and a post-colonial lens of "management." Engagement is often framed with condescending familiarity, positioning themselves as the experienced senior partner guiding the junior one.
 
   </div>
-  <div class="narrative-cluster-card">
+  <div class="narrative-cluster-card" markdown="1">
 
 ## 2. The Economic Pragmatists
 
@@ -37,7 +37,7 @@ This narrative is less burdened by the past and overwhelmingly focused on the fu
 The engagement is highly pragmatic. Germany, for example, respects India's technical and scientific talent but is often critical of its bureaucracy, leading to a narrative of "immense potential, frustrating execution." The relationship is more straightforward and less freighted with psychological complexity.
 
   </div>
-  <div class="narrative-cluster-card">
+  <div class="narrative-cluster-card" markdown="1">
 
 ## 3. The Post-Soviet Bloc
 
