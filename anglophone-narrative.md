@@ -4,7 +4,7 @@ title: "Deconstructing Anglo Narratives"
 permalink: /anglophone-narrative/
 ---
 
-The Anglophone Narrative is a primary source of **friction** for individuals of Indian origin. This friction stems from a deep-seated post-colonial condescension and a strategic worldview that often reduces India to its utility in Western-led alliances.
+The Anglophone Narrative is a primary source of **friction** for individuals of Indian origin. This friction stems from a deep-seated post-colonial condescension, a strategic worldview that reduces India to its utility, and, in some cases, a permissive tolerance for extremist groups.
 
 This page deconstructs the distinct realities of its key players, providing a playbook for the individual.
 
@@ -13,6 +13,7 @@ This page deconstructs the distinct realities of its key players, providing a pl
     <button class="tab-button active" onclick="openTab(event, 'us')">United States</button>
     <button class="tab-button" onclick="openTab(event, 'uk')">United Kingdom</button>
     <button class="tab-button" onclick="openTab(event, 'aus-nz')">Australia & NZ</button>
+    <button class="tab-button" onclick="openTab(event, 'canada')">Canada</button>
   </div>
 
   <div id="us" class="tab-content" style="display:block;" markdown="1">
@@ -71,6 +72,25 @@ The experience can be a jarring "hot and cold" mix.
 1.  **Understand the Dichotomy:** Be aware that the positive strategic narrative has not yet fully filtered down to all levels of society. Do not be shocked if you encounter both warmth and prejudice.
 2.  **Leverage the Strategic Narrative:** In professional and official settings, lean into the powerful narrative of the "Quad partnership" and shared democratic values. This is your strongest frame.
 3.  **Confront Social Racism Directly:** The "Framework for Action" is critical here. Casual racism should not be tolerated. A calm but firm response ("I'm not sure what you mean by that, can you explain?") is often the most effective way to shut it down.
+  </div>
+
+  <div id="canada" class="tab-content" markdown="1">
+### Canada: The Narrative of Permissive Hostility
+
+The Canadian narrative is a dangerous paradox. While the social narrative is one of multicultural harmony, the state's permissive attitude towards anti-India extremism creates a unique and severe friction.
+
+#### The Strategic Narrative
+Officially, the Canadian state seeks a strong relationship with India based on trade and a large, successful diaspora.
+
+#### The Individual's Reality
+This is where the friction is most jarring. On a day-to-day basis, Canadian society is generally welcoming. However, this is completely undermined by the **state's tolerance of Khalistani extremism.**
+*   **The Core Friction:** The Canadian government, for reasons of domestic vote-bank politics, has allowed extremist and terrorist groups to operate with impunity on its soil. They fundraise, spread violent anti-India rhetoric, and glorify political assassins.
+*   **The Betrayal:** For an individual of Indian origin, this is not an abstract issue. It is the deeply unsettling knowledge that the country you live in provides a safe haven to groups that seek to dismember your country of origin and have a history of violence. It makes the official narrative of "shared values" feel like a cynical lie.
+
+#### The Individual's Playbook
+1.  **Recognize the Disconnect:** Understand that the friendly Canadian you meet at work is likely unaware of this deep strategic problem. The issue is not with the average person, but with a failure of the Canadian state.
+2.  **Do Not Normalize Extremism:** In conversations, if the topic arises, do not accept the false equivalence of "freedom of speech" for what is clearly hate speech and the glorification of terrorism.
+3.  **Engage Politically:** This is a political problem that requires a political solution. The duty of the Indo-Canadian community is to be an active, organized, and vocal political force that punishes parties that appease extremists and rewards those that take India's security concerns seriously.
   </div>
 </div>
 
