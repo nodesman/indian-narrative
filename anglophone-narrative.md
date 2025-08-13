@@ -6,6 +6,10 @@ permalink: /anglophone-narrative/
 
 The Anglophone narrative, shaped primarily by Britain and the United States, is arguably the most influential and pervasive lens through which the world views India. It is a complex web of colonial justifications, post-colonial guilt, and strategic interests that continues to distort India's reality and its global standing.
 
+### The Core Motivation: Maintaining Strategic Dominance
+
+The Anglophone narrative is rooted in a direct **competition for global influence and the preservation of a particular world order**. For the UK, it involves a post-colonial "management" of the relationship, subtly reinforcing historical hierarchies. For the US, it is about framing India based on its utility in the great power competition with China. India's value is often defined not by its own merits, but by its role as a "counterweight." This strategic lens, while sometimes appearing positive, is inherently competitive as it seeks to fit India into a Western-led order rather than acknowledging it as an independent, co-equal pole of global power.
+
 To reclaim our narrative, we must critically examine and dismantle these deep-seated Anglophone perspectives.
 
 ---

@@ -6,6 +6,10 @@ permalink: /european-narrative/
 
 A critical analysis of modern European attitudes toward India reveals a narrative shaped overwhelmingly by the colonial past, which deliberately obscures a much longer and more respectful history of engagement. To reclaim our own story, we must first understand and deconstruct this distorted European lens.
 
+### The Core Motivation: A Competition with History
+
+Unlike the more direct geopolitical rivalries, the European narrative is driven by a **competition with its own past**. To maintain a positive self-image and justify the colonial project, European history needed to frame India as a backward, chaotic land that benefited from intervention. This psychological need prevents an honest appraisal of India as a once-equal, if not superior, trading and cultural partner. The narrative isn't about competing with India today, but about protecting a flattering version of Europe's own history.
+
 Here is a breakdown of the core issues with the dominant European narrative:
 
 ---

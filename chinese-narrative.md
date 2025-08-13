@@ -6,6 +6,10 @@ permalink: /chinese-narrative/
 
 The modern Chinese narrative regarding India is a complex mixture of historical revisionism, strategic rivalry, and a state-controlled information environment that systematically downplays India's civilizational significance and contemporary power. This narrative is designed to bolster China's own sense of superiority and to undermine India's position in Asia and the world.
 
+### The Core Motivation: Zero-Sum Geopolitical Competition
+
+The Chinese narrative is the most overtly competitive. It is a **zero-sum struggle for regional and, ultimately, global dominance**. To establish itself as the undisputed center of a unipolar Asia, China's state-controlled narrative must systematically diminish its most significant rival. This is achieved by erasing historical and cultural debts, magnifying military confrontations where China had the upper hand, and relentlessly promoting a caricature of Indian "chaos" versus Chinese "order." This is not merely a contest of ideas; it is a core component of China's strategy to achieve geopolitical primacy.
+
 Challenging this narrative is a critical task for reclaiming India's agency and ensuring a relationship based on mutual respect, not condescension.
 
 ---
