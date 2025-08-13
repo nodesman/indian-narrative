@@ -4,6 +4,10 @@ title: "The Pakistani Narrative: A Playbook for the Individual"
 permalink: /pakistan-narrative/
 ---
 
+<div class="flag-container">
+  <span title="Pakistan" role="img" aria-label="Pakistan Flag">🇵🇰</span>
+</div>
+
 ## The Pakistani Narrative: A Playbook for the Individual
 
 The official narrative of the Pakistani state is **inimical** to India and is founded on an **anti-Hindu ideology**. For an individual of Indian origin, this translates into a high probability of encountering an undercurrent of contempt and undeserved superiority, even from people who appear friendly.

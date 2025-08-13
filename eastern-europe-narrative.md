@@ -1,8 +1,15 @@
 ---
 layout: default
-title: "The Post-Soviet Bloc Narrative"
-permalink: /post-soviet-narrative/
+title: "The Eastern European Narrative"
+permalink: /eastern-europe-narrative/
 ---
+
+<div class="flag-container">
+  <span title="Poland" role="img" aria-label="Poland Flag">🇵🇱</span>
+  <span title="Czechia" role="img" aria-label="Czechia Flag">🇨🇿</span>
+  <span title="Hungary" role="img" aria-label="Hungary Flag">🇭🇺</span>
+  <span title="Romania" role="img" aria-label="Romania Flag">🇷🇴</span>
+</div>
 
 <div class="master-detail-container">
   <div class="master-pane">
@@ -13,7 +20,7 @@ permalink: /post-soviet-narrative/
   <div class="detail-pane">
     <div id="strategic" class="detail-content">
       <h3>The Strategic Narrative: The Sovereign Partner</h3>
-      <p>The governments of the Post-Soviet Bloc see India as a fellow "risen" nation that has successfully thrown off foreign domination. Their primary motivation is a pragmatic search for strong, non-threatening partners to enhance their own sovereignty, particularly as a hedge against their larger neighbors.</p>
+      <p>The governments of Eastern Europe see India as a fellow "risen" nation that has successfully charted its own course. Their primary motivation is a pragmatic search for strong, non-threatening partners to enhance their own sovereignty, particularly as a hedge against their larger neighbors.</p>
     </div>
     <div id="reality" class="detail-content" style="display:none;">
       <h3>The Individual's Reality: The Professional Equal</h3>

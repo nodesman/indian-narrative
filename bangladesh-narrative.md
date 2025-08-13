@@ -4,6 +4,10 @@ title: "The Bangladeshi Narrative: A Playbook for the Individual"
 permalink: /bangladesh-narrative/
 ---
 
+<div class="flag-container">
+  <span title="Bangladesh" role="img" aria-label="Bangladesh Flag">🇧🇩</span>
+</div>
+
 ## The Bangladeshi Narrative: A Playbook for the Individual
 
 The narrative from Bangladesh is complex. While there is a powerful, state-level counter-narrative of friendship, there is also a significant and harmful **anti-Hindu narrative** that exists among segments of the population, weaponized by political factions.

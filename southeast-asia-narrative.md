@@ -4,6 +4,14 @@ title: "Southeast Asian Narratives"
 permalink: /southeast-asia-narrative/
 ---
 
+<div class="flag-container">
+  <span title="Indonesia" role="img" aria-label="Indonesia Flag">🇮🇩</span>
+  <span title="Vietnam" role="img" aria-label="Vietnam Flag">🇻🇳</span>
+  <span title="Thailand" role="img" aria-label="Thailand Flag">🇹🇭</span>
+  <span title="Singapore" role="img" aria-label="Singapore Flag">🇸🇬</span>
+  <span title="Philippines" role="img" aria-label="Philippines Flag">🇵🇭</span>
+</div>
+
 <div class="master-detail-container">
   <div class="master-pane">
     <a href="#strategic" class="master-link active">The Strategic Narrative</a>

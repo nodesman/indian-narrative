@@ -4,6 +4,10 @@ title: "The Russian Narrative"
 permalink: /russia-narrative/
 ---
 
+<div class="flag-container">
+  <span title="Russia" role="img" aria-label="Russia Flag">🇷🇺</span>
+</div>
+
 <div class="master-detail-container">
   <div class="master-pane">
     <a href="#strategic" class="master-link active">The Strategic Narrative</a>

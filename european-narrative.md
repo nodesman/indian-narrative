@@ -4,6 +4,16 @@ title: "Deconstructing European Narratives"
 permalink: /european-narrative/
 ---
 
+<div class="flag-container">
+  <span title="United Kingdom" role="img" aria-label="United Kingdom Flag">🇬🇧</span>
+  <span title="France" role="img" aria-label="France Flag">🇫🇷</span>
+  <span title="Germany" role="img" aria-label="Germany Flag">🇩🇪</span>
+  <span title="Italy" role="img" aria-label="Italy Flag">🇮🇹</span>
+  <span title="Spain" role="img" aria-label="Spain Flag">🇪🇸</span>
+  <span title="Sweden" role="img" aria-label="Sweden Flag">🇸🇪</span>
+  <span title="Denmark" role="img" aria-label="Denmark Flag">🇩🇰</span>
+</div>
+
 The narratives from Western Europe are a primary source of **friction** for individuals of Indian origin. This friction is not typically born from direct geopolitical rivalry, but from a more subtle and deeply ingrained sense of historical and cultural superiority, rooted in a profound **amnesia about India's historical importance to Europe.**
 
 This page deconstructs the different flavors of this narrative.

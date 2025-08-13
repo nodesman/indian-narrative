@@ -4,6 +4,13 @@ title: "The Latin American Narrative"
 permalink: /latin-america-narrative/
 ---
 
+<div class="flag-container">
+  <span title="Brazil" role="img" aria-label="Brazil Flag">🇧🇷</span>
+  <span title="Mexico" role="img" aria-label="Mexico Flag">🇲🇽</span>
+  <span title="Argentina" role="img" aria-label="Argentina Flag">🇦🇷</span>
+  <span title="Colombia" role="img" aria-label="Colombia Flag">🇨🇴</span>
+</div>
+
 <div class="master-detail-container">
   <div class="master-pane">
     <a href="#strategic" class="master-link active">The Strategic Narrative</a>

@@ -4,6 +4,13 @@ title: "The Arab World Narrative"
 permalink: /arab-world-narrative/
 ---
 
+<div class="flag-container">
+  <span title="United Arab Emirates" role="img" aria-label="United Arab Emirates Flag">🇦🇪</span>
+  <span title="Saudi Arabia" role="img" aria-label="Saudi Arabia Flag">🇸🇦</span>
+  <span title="Egypt" role="img" aria-label="Egypt Flag">🇪🇬</span>
+  <span title="Qatar" role="img" aria-label="Qatar Flag">🇶🇦</span>
+</div>
+
 <div class="master-detail-container">
   <div class="master-pane">
     <a href="#strategic" class="master-link active">The Strategic Narrative</a>

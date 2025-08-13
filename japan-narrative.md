@@ -4,6 +4,10 @@ title: "The Japanese Narrative"
 permalink: /japan-narrative/
 ---
 
+<div class="flag-container">
+  <span title="Japan" role="img" aria-label="Japan Flag">🇯🇵</span>
+</div>
+
 <div class="master-detail-container">
   <div class="master-pane">
     <a href="#strategic" class="master-link active">The Strategic Narrative</a>

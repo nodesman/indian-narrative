@@ -4,6 +4,10 @@ title: "The South Korean Narrative"
 permalink: /south-korea-narrative/
 ---
 
+<div class="flag-container">
+  <span title="South Korea" role="img" aria-label="South Korea Flag">🇰🇷</span>
+</div>
+
 ## South Korea: A Narrative of Strategic Alignment vs. Social Friction
 
 The South Korean narrative is a critical case study in the conflict between state-level strategy and on-the-ground social reality. While the strategic narrative is one of alignment, the individual's experience can be one of significant **friction** due to deep-seated social prejudice.

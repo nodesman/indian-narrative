@@ -4,6 +4,14 @@ title: "Deconstructing Anglo Narratives"
 permalink: /anglophone-narrative/
 ---
 
+<div class="flag-container">
+  <span title="United States" role="img" aria-label="United States Flag">🇺🇸</span>
+  <span title="United Kingdom" role="img" aria-label="United Kingdom Flag">🇬🇧</span>
+  <span title="Australia" role="img" aria-label="Australia Flag">🇦🇺</span>
+  <span title="New Zealand" role="img" aria-label="New Zealand Flag">🇳🇿</span>
+  <span title="Canada" role="img" aria-label="Canada Flag">🇨🇦</span>
+</div>
+
 The Anglophone Narrative is a primary source of **friction** for individuals of Indian origin. This friction stems from a deep-seated post-colonial condescension, a strategic worldview that reduces India to its utility, and, in some cases, a permissive tolerance for extremist groups.
 
 This page deconstructs the distinct realities of its key players, providing a playbook for the individual.

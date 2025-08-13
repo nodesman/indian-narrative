@@ -291,6 +291,19 @@ body {
   box-shadow: 0 4px 12px rgba(0,0,0,0.1);
 }
 
+/* --- Flag Container --- */
+.flag-container {
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid var(--sidebar-border);
+}
+
+.flag-container span {
+  margin-right: 0.75rem;
+}
+
+
 
 
 

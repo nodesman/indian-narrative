@@ -4,6 +4,10 @@ title: "The Chinese Narrative"
 permalink: /chinese-narrative/
 ---
 
+<div class="flag-container">
+  <span title="China" role="img" aria-label="China Flag">🇨🇳</span>
+</div>
+
 The modern Chinese narrative regarding India is the most overtly hostile and competitive. For an individual, this translates into a **narrative of direct friction**, where engagement, particularly in digital spaces, is often characterized by aggressive trolling and state-backed propaganda designed to diminish India's standing.
 
 This narrative is a core component of China's strategy to achieve undisputed dominance in Asia.

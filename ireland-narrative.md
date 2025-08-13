@@ -4,6 +4,10 @@ title: "The Irish Narrative"
 permalink: /ireland-narrative/
 ---
 
+<div class="flag-container">
+  <span title="Ireland" role="img" aria-label="Ireland Flag">🇮🇪</span>
+</div>
+
 <div class="master-detail-container">
   <div class="master-pane">
     <a href="#strategic" class="master-link active">The Strategic Narrative</a>

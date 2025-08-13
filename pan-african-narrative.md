@@ -4,6 +4,14 @@ title: "The Pan-African Narrative"
 permalink: /pan-african-narrative/
 ---
 
+<div class="flag-container">
+  <span title="South Africa" role="img" aria-label="South Africa Flag">🇿🇦</span>
+  <span title="Nigeria" role="img" aria-label="Nigeria Flag">🇳🇬</span>
+  <span title="Kenya" role="img" aria-label="Kenya Flag">🇰🇪</span>
+  <span title="Ethiopia" role="img" aria-label="Ethiopia Flag">🇪🇹</span>
+  <span title="Egypt" role="img" aria-label="Egypt Flag">🇪🇬</span>
+</div>
+
 <div class="master-detail-container">
   <div class="master-pane">
     <a href="#strategic" class="master-link active">The Strategic Narrative</a>
