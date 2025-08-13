@@ -40,16 +40,27 @@ This is the most historically deep and psychologically complex narrative, driven
   </div>
 
   <div id="pragmatists" class="tab-content" markdown="1">
-### The Economic Pragmatists (Germany, Italy, etc.)
+### Deconstructing the "Pragmatists"
 
-This narrative is less burdened by colonial baggage and is overwhelmingly focused on economic and geopolitical realities.
+This narrative is not monolithic, but a spectrum of views less burdened by a colonial past. However, even pragmatic narratives can be subtly harmful.
 
-*   **Core Motivation:** **Economic self-interest and a search for geopolitical stability.**
-*   **Key Characteristics:**
-    *   **The Engineering Lens (Germany):** As Europe's industrial powerhouse, Germany views India primarily through an economic and engineering framework. They have immense respect for India's technical talent, IT prowess, and market size. This respect, however, is paired with deep frustration at what they perceive as bureaucratic inefficiency and infrastructure deficits. The narrative is one of "immense potential, frustrating execution."
-    *   **The "G20 Partner" Frame (Italy/Spain):** For other major economies, the narrative is simpler. India is a fellow G20 member, a major economy, and a vital partner in global economic governance. Their engagement is less about history and more about trade balances, market access for their own goods (e.g., Italian luxury brands), and cooperation in international forums.
-    *   **Agnostic on Internal Affairs:** These nations are generally less interested in lecturing India on its internal social issues, unless it directly impacts the business environment.
-*   **Strategic Implication for India:** These are our natural partners for building the industrial and technological capacity we need. The relationship must be framed in terms of mutual economic benefit and co-creation of technology.
+#### 1. Germany: The Critical Pragmatist
+The German narrative is a paradox: immense economic respect paired with a moralistic, critical lens.
+*   **Motivation:** A mix of economic self-interest and a post-war identity built on being a leader of social responsibility and critical self-reflection.
+*   **Manifestation:** German corporations see India as a vital partner. However, German media (like DW) and civil society see it as their duty to be a critical voice, often focusing relentlessly on India's poverty, inequality, and environmental issues.
+*   **Harmful Aspect:** While often well-intentioned, this constant critical focus, stripped of the larger context of India's successes, reinforces the same old stereotype of a "chaotic, problem-ridden" nation.
+
+#### 2. Southern Europe (Italy, Spain): The Cultural & Commercial Partner
+The narrative here is far less critical and more focused on shared history and specific economic ties.
+*   **Motivation:** Commercial interest in specific sectors (e.g., Italian luxury goods) and a sense of a shared identity as ancient civilizations.
+*   **Manifestation:** The Italian narrative is one of the most positive in Europe, with a genuine public fascination with Indian culture, history, and spirituality. The relationship is more about cultural and commercial exchange than geopolitical maneuvering.
+*   **Harmful Aspect:** Rarely malicious, the primary risk is a tendency towards romanticism and exoticism—a form of "othering" that can be superficial and prevent a deeper understanding of modern India.
+
+#### 3. The Nordics: The Values-Driven Critic
+The Nordic narrative is almost entirely viewed through the lens of their own social democratic values.
+*   **Motivation:** To promote their own model of governance (human rights, gender equality, environmentalism) on the global stage.
+*   **Manifestation:** Their engagement with India is almost exclusively focused on these issues.
+*   **Harmful Aspect:** By focusing so narrowly, they often create a highly skewed and negative picture. Their "values-based" critique, while not rooted in colonialism, can be just as one-sided and damaging as other narratives, as it often ignores India's economic dynamism and geopolitical context.
   </div>
 </div>
 
