@@ -8,7 +8,7 @@ permalink: /colonial-hangover/
 
 Of all the internal narratives that hold India back, the most insidious is the psychological residue of colonialism. It is a deep-seated, often unconscious, belief that Western standards are the only universal standards, and that Western validation is the ultimate proof of our worth.
 
-This "West is Best" mentality is a voluntary forfeiture of civilizational confidence and a critical self-goal in the narrative war.
+This "West is Best" mentality is a voluntary forfeiture of civilizational confidence and a critical self-goal in the narrative war. It is the internal reflection of the external narratives pushed by the <a href="/indian-narrative/anglophone-narrative/">United Kingdom</a> and other <a href="/indian-narrative/european-narrative/">Post-Colonial Powers</a>.
 
 ---
 

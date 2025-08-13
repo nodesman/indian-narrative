@@ -39,8 +39,8 @@ This is the official narrative of the post-Cold War era, framing the relationshi
 
 This is the difficult modern reality that is placing the foundational narratives under immense strain.
 
-*   **The China Factor:** Russia's "no limits" partnership with China is its top strategic priority. This creates a severe contradiction, as India's primary strategic challenge is Chinese expansionism. The official Russian narrative attempts to ignore or downplay this, pushing concepts like Russia-India-China (RIC) that seem increasingly disconnected from the reality of the Sino-Indian border conflict.
-*   **The US Factor:** At the same time, India's most important new strategic partner is the United States, Russia's primary adversary. The Quad (US, Japan, Australia, India) is viewed with deep suspicion and hostility in Moscow.
+*   **The China Factor:** Russia's "no limits" partnership with China is its top strategic priority. This creates a severe contradiction, as India's primary strategic challenge is the <a href="/indian-narrative/chinese-narrative/">Chinese narrative</a> of regional dominance. The official Russian narrative attempts to ignore or downplay this, pushing concepts like Russia-India-China (RIC) that seem increasingly disconnected from the reality of the Sino-Indian border conflict.
+*   **The US Factor:** At the same time, India's most important new strategic partner is the United States, Russia's primary adversary. This alignment, a core component of the <a href="/indian-narrative/anglophone-narrative/">American narrative</a> for India, is viewed with deep suspicion and hostility in Moscow.
 *   **The Resulting Narrative Strain:** The official Russian narrative is forced into a difficult balancing act. It must celebrate the nostalgic friendship with India while refusing to criticize Chinese aggression, and it must voice disapproval of the India-US partnership without alienating New Delhi. This results in a narrative that is strong on history but increasingly silent on the most pressing modern challenges.
 
 ---

@@ -39,7 +39,7 @@ The American narrative is the most powerful and is driven by a pragmatic, unsent
 
 The British narrative is the oldest and is shaped by a deep, unresolved psychological need to manage its post-colonial identity.
 
-*   **Core Motivation:** A competition with its own history and a need to justify the Raj. This requires maintaining a narrative where Britain was a benevolent force that brought modernity and order to India.
+*   **Core Motivation:** A competition with its own history and a need to justify the Raj. This requires maintaining a narrative where Britain was a benevolent force that brought modernity and order to India. This external narrative is the direct counterpart to our own internal <a href="/indian-narrative/colonial-hangover/">Colonial Hangover</a>.
 *   **Modern Manifestation:** This leads to a narrative of condescending familiarity. The UK media and establishment often position themselves as the world's foremost "experts" on India. There is a constant, almost obsessive, focus on the "legacies of partition" and a tendency to lecture India on its internal affairs, from a position of assumed moral and historical superiority. It is the narrative of a former ruler struggling to accept the new reality of a partnership of equals.
   </div>
 

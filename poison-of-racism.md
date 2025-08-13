@@ -23,7 +23,7 @@ This is a self-inflicted wound that gives our adversaries a powerful and legitim
 ### Why It Is a Strategic Self-Goal
 
 *   **It Destroys Our Credibility:** It is impossible to lead the "Global South" or claim the mantle of a *Vishwa Guru* if we are seen as a racist society. It makes our calls for a more just and equitable world order sound hollow and hypocritical.
-*   **It Undermines Our Partnership with Africa:** As detailed in the Pan-African narrative page, our strategic future is deeply linked to a strong partnership with the 54 nations of Africa. Every racist incident in India is a strategic gift to China. It allows them to portray us as an unreliable and prejudiced partner, directly harming our geopolitical and economic interests.
+*   **It Undermines Our Partnership with Africa:** As detailed in the <a href="/indian-narrative/pan-african-narrative/">Pan-African narrative page</a>, our strategic future is deeply linked to a strong partnership with the 54 nations of Africa. Every racist incident in India is a strategic gift to China. It allows them to portray us as an unreliable and prejudiced partner, directly harming our geopolitical and economic interests.
 *   **It Weakens Our National Unity:** The prejudice against Northeasterners creates a sense of alienation and questions their place in the Indian story, weakening the fabric of our nation from within.
 *   **It Exposes a Moral Flaw:** It gives those who push anti-India narratives a legitimate and powerful point of criticism. They can ignore our economic growth or democratic values and simply point to our racism as "proof" of our societal backwardness.
 
