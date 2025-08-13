@@ -126,6 +126,52 @@ body {
   color: var(--link-color);
 }
 
+/* --- Master-Detail Layout --- */
+.master-detail-container {
+  display: flex;
+  gap: 2rem;
+  margin-top: 2rem;
+}
+
+.master-pane {
+  flex: 0 0 250px; /* Flex-grow, flex-shrink, flex-basis */
+  border-right: 1px solid var(--sidebar-border);
+  padding-right: 2rem;
+}
+
+.master-pane a {
+  display: block;
+  padding: 0.75rem 1rem;
+  text-decoration: none;
+  color: var(--text-color);
+  border-radius: 6px;
+  font-weight: 500;
+  margin-bottom: 0.5rem;
+  border: 1px solid transparent;
+}
+
+.master-pane a:hover {
+  background-color: var(--link-hover-bg);
+  text-decoration: none;
+}
+
+.master-pane a.active {
+  background-color: var(--primary-bg);
+  border-color: var(--sidebar-border);
+  color: var(--heading-color);
+  box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+}
+
+.detail-pane {
+  flex: 1;
+}
+
+.detail-content h3 {
+  margin-top: 0;
+  font-size: 1.8rem;
+}
+
+
 
 
 .nav-subcategory-title {
