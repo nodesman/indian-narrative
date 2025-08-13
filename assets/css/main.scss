@@ -81,6 +81,47 @@ body {
   cursor: default;
 }
 
+/* --- Collapsible Sidebar --- */
+.collapsible {
+  background-color: transparent;
+  color: var(--text-color);
+  cursor: pointer;
+  padding: 0.75rem 1.25rem;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 1rem;
+  font-weight: 700;
+  font-family: var(--font-headings);
+}
+
+.collapsible:after {
+  content: '\002B'; /* Plus sign */
+  color: var(--text-color);
+  font-weight: bold;
+  float: right;
+  margin-left: 5px;
+}
+
+.collapsible.active:after {
+  content: "\2212"; /* Minus sign */
+}
+
+.collapsible-content {
+  padding: 0 0 0 1.25rem; /* Indent content */
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.2s ease-out;
+  background-color: var(--sidebar-bg);
+}
+
+.collapsible-content a {
+  font-weight: 400;
+  font-size: 0.95rem;
+}
+
+
 .nav-subcategory-title {
   padding: 0.75rem 1.25rem 0.25rem;
   font-size: 0.9rem;

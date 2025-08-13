@@ -16,8 +16,8 @@
         <a href="{{"/" | relative_url }}">Home</a>
 
         <div class="nav-category">
-          <span class="nav-category-title">Narratives of Friction</span>
-          <div class="nav-submenu">
+          <button type="button" class="collapsible">Narratives of Friction</button>
+          <div class="collapsible-content">
             <a href="{{"/anglophone-narrative/" | relative_url }}">Anglophone Narratives</a>
             <a href="{{"/chinese-narrative/" | relative_url }}">Chinese Narrative</a>
             <a href="{{"/european-narrative/" | relative_url }}">European Narratives</a>
@@ -26,16 +26,16 @@
         </div>
 
         <div class="nav-category">
-          <span class="nav-category-title">Subcontinental Friction</span>
-          <div class="nav-submenu">
+          <button type="button" class="collapsible">Subcontinental Friction</button>
+          <div class="collapsible-content">
             <a href="{{"/pakistan-narrative/" | relative_url }}">The Pakistani Narrative</a>
             <a href="{{"/bangladesh-narrative/" | relative_url }}">The Bangladeshi Narrative</a>
           </div>
         </div>
 
         <div class="nav-category">
-          <span class="nav-category-title">Narratives of Alignment</span>
-          <div class="nav-submenu">
+          <button type="button" class="collapsible">Narratives of Alignment</button>
+          <div class="collapsible-content">
             <a href="{{"/japan-narrative/" | relative_url }}">Japanese Narrative</a>
             <a href="{{"/southeast-asia-narrative/" | relative_url }}">Southeast Asian Narrative</a>
             <a href="{{"/post-soviet-narrative/" | relative_url }}">Post-Soviet Bloc Narrative</a>
@@ -48,32 +48,32 @@
         </div>
 
         <div class="nav-category">
-          <span class="nav-category-title">The Battlegrounds</span>
-          <div class="nav-submenu">
+          <button type="button" class="collapsible">Internal Battlegrounds</button>
+          <div class="collapsible-content">
+            <a href="{{"/colonial-hangover/" | relative_url }}">The Colonial Hangover</a>
+            <a href="{{"/fractured-mirror/" | relative_url }}">The Fractured Mirror</a>
+            <a href="{{"/crab-mentality/" | relative_url }}">The "Crab Mentality"</a>
+            <a href="{{"/poison-of-racism/" | relative_url }}">The Poison of Racism</a>
+          </div>
+        </div>
+
+        <div class="nav-category">
+          <button type="button" class="collapsible">The Battlegrounds</button>
+          <div class="collapsible-content">
             <a href="{{"/digital-frontline/" | relative_url }}">The Digital Frontline</a>
             <a href="{{"/real-world-frontline/" | relative_url }}">The Real-World Frontline</a>
           </div>
         </div>
 
         <div class="nav-category">
-          <span class="nav-category-title">The Playbook for Action</span>
-          <div class="nav-submenu">
+          <button type="button" class="collapsible">The Playbook for Action</button>
+          <div class="collapsible-content">
             <a href="{{"/understanding-the-war/" | relative_url }}">Understanding the War</a>
             <a href="{{"/consequences-of-inaction/" | relative_url }}">Consequences of Inaction</a>
             <a href="{{"/framework-for-action/" | relative_url }}">A Framework for Action</a>
             <a href="{{"/the-long-term-project/" | relative_url }}">The Long-Term Project</a>
             <a href="{{"/your-role-in-the-war/" | relative_url }}">Your Role in the War</a>
             <a href="{{"/the-active-stance/" | relative_url }}">The Active Stance</a>
-          </div>
-        </div>
-
-        <div class="nav-category">
-          <span class="nav-category-title">Internal Battlegrounds</span>
-          <div class="nav-submenu">
-            <a href="{{"/colonial-hangover/" | relative_url }}">The Colonial Hangover</a>
-            <a href="{{"/fractured-mirror/" | relative_url }}">The Fractured Mirror</a>
-            <a href="{{"/crab-mentality/" | relative_url }}">The "Crab Mentality"</a>
-            <a href="{{"/poison-of-racism/" | relative_url }}">The Poison of Racism</a>
           </div>
         </div>
       </nav>
@@ -84,5 +84,22 @@
         {{ content }}
       </div>
     </main>
+
+    <script>
+      var coll = document.getElementsByClassName("collapsible");
+      var i;
+
+      for (i = 0; i < coll.length; i++) {
+        coll[i].addEventListener("click", function() {
+          this.classList.toggle("active");
+          var content = this.nextElementSibling;
+          if (content.style.maxHeight){
+            content.style.maxHeight = null;
+          } else {
+            content.style.maxHeight = content.scrollHeight + "px";
+          } 
+        });
+      }
+    </script>
   </body>
 </html>
