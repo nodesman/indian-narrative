@@ -81,9 +81,24 @@ body {
   cursor: default;
 }
 
+.nav-subcategory-title {
+  padding: 0.75rem 1.25rem 0.25rem;
+  font-size: 0.9rem;
+  font-weight: 700;
+  color: #6c757d; /* A muted color */
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  display: block;
+  margin-top: 0.5rem;
+}
+
 .nav-submenu a {
-  padding-left: 2.5rem; /* Indent submenu items */
+  padding-left: 1.25rem; /* Default padding for submenu items */
   font-weight: 400;
+}
+
+.nav-indented-item {
+  padding-left: 2.5rem !important; /* Increased padding for nested items */
 }
 
 
