@@ -1,12 +1,14 @@
 ---
 layout: default
-title: "Narrative from Southeast Asia"
+title: "Southeast Asian Narratives"
 permalink: /southeast-asia-narrative/
 ---
 
-## The Narrative of Shared Heritage: Southeast Asia's View of India
+## Southeast Asia: A Narrative of Shared Heritage
 
-The narrative from Southeast Asia is perhaps the most unique and strategically vital to India. It is not a story of competition or ignorance, but one of deep, foundational cultural connection and modern strategic alignment. It is a narrative of opportunity where the primary challenge is not to counter negativity, but to live up to positive expectations.
+The narratives from Southeast Asia are a powerful source of **alignment** for India. For an individual, this translates into an experience of cultural familiarity and a baseline of respect rooted in a shared civilizational history.
+
+This is a relationship not of competition, but of positive expectation, where the primary challenge is for India to live up to its role as a natural partner.
 
 ---
 

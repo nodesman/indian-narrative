@@ -1,14 +1,14 @@
 ---
 layout: default
-title: "Narrative from the Post-Soviet Bloc"
+title: "The Post-Soviet Bloc Narrative"
 permalink: /post-soviet-narrative/
 ---
 
 ## The Post-Soviet Bloc: A Narrative Free of Baggage
 
-The narrative from the nations of Central and Eastern Europe is one of the most distinct and strategically valuable for India. Shaped by a 20th-century experience of Soviet domination rather than overseas colonialism, their perspective is free of the psychological and historical baggage that complicates the relationship with Western Europe.
+The narrative from the nations of Central and Eastern Europe is a key **narrative of alignment**. For an individual, this means an engagement that is refreshingly free of the colonial condescension or historical baggage that can color interactions in Western Europe.
 
-This makes them a key "Narrative of Opportunity."
+This makes them a crucial set of partners, whose perspective is based on a shared respect for sovereignty.
 
 ---
 

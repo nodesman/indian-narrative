@@ -1,14 +1,14 @@
 ---
 layout: default
-title: "Narrative from the Pan-African World"
+title: "The Pan-African Narrative"
 permalink: /pan-african-narrative/
 ---
 
-## The Pan-African Narrative: A Contested Opportunity
+## The Pan-African Narrative: A Contested Alignment
 
-The relationship between India and the 54 nations of Africa is one of the most important and complex of the 21st century. There is no single "pan-African narrative" about India, but rather a dynamic interplay of historical solidarity, modern economic partnership, and significant social challenges.
+The relationship with the 54 nations of Africa is a powerful but contested **narrative of alignment**. The foundation is a deep, historical solidarity against colonialism. However, this positive alignment is under constant threat from the friction caused by the complex diaspora experience and the poison of racism against Africans in India.
 
-This makes the continent a **contested opportunity**—a powerful, natural alliance that we must actively fight for, not take for granted.
+For an individual, this means navigating a landscape of immense goodwill that can be punctuated by moments of tension.
 
 ---
 

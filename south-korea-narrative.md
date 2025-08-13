@@ -1,14 +1,14 @@
 ---
 layout: default
-title: "Narrative from South Korea"
+title: "The South Korean Narrative"
 permalink: /south-korea-narrative/
 ---
 
-## South Korea: A Strategic Opportunity Under Threat
+## South Korea: A Narrative of Strategic Alignment vs. Social Friction
 
-The South Korean narrative about India is a crucial case study in the difference between top-down strategic imperatives and bottom-up social prejudices. At the state and corporate level, the narrative is one of immense opportunity and natural partnership. At the social level, however, this is often undermined by deep-seated prejudice.
+The South Korean narrative is a critical case study in the conflict between state-level strategy and on-the-ground social reality. While the strategic narrative is one of alignment, the individual's experience can be one of significant **friction** due to deep-seated social prejudice.
 
-This makes South Korea a vital "Narrative of Opportunity," but one that is under constant threat from a critical internal challenge.
+For this reason, it is categorized as a "Narrative of Friction," as the potential for negative personal experience is high and must be understood.
 
 ---
 
@@ -36,11 +36,9 @@ This positive strategic narrative is constantly undermined by significant social
 
 ---
 
-### Strategic Implication for India: Closing the Gap
+### The Individual's Playbook: Closing the Gap
 
 The opportunity is immense, but it requires a two-pronged approach.
 
-1.  **Embrace the Top-Level Partnership:** We must continue to build the strategic, economic, and technological partnership with the Korean government and its corporations.
-2.  **Confront the Social Prejudice:** We must be honest about the social challenges. The long-term solution is to use the strength of the top-level partnership to drive more cultural exchange, tourism, and educational ties. Increased exposure and interaction is the most powerful antidote to the ignorance that fuels prejudice.
-
-The South Korean narrative is a test of our diplomatic skill. We must be clear-eyed about the challenges while strategically capitalizing on the immense opportunities.
+1.  **Embrace the Top-Level Partnership:** In professional settings, leverage the powerful strategic narrative of partnership.
+2.  **Be Prepared for the Social Prejudice:** Understand the cultural context for the prejudice. Do not be shocked by it. Use our **<a href="/indian-narrative/framework-for-action/">Framework for Action</a>** to assess and respond to individual situations. The long-term goal is to use the strength of the top-level partnership to drive the cultural exchange needed to break down prejudice at the bottom.

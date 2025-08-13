@@ -1,12 +1,14 @@
 ---
 layout: default
-title: "Narrative from the Arab World"
+title: "The Arab World Narrative"
 permalink: /arab-world-narrative/
 ---
 
-## A Tale of Two Eras: The Arab World's View of India
+## The Arab World: A Complex Alignment
 
-The narrative landscape in the Arab world concerning India is one of profound duality, split between a deep and respectful historical memory and a complex, often contradictory, modern perception. Understanding this requires looking at two distinct eras.
+The narrative from the Arab world is a complex **narrative of alignment**, built on a foundation of deep historical respect and modern economic partnership.
+
+However, for an individual, the experience is highly stratified. The immense goodwill can be complicated by a class-based perception stemming from the labor dynamic in the Gulf, and by political friction over religious issues. This makes it a crucial but complex relationship to navigate.
 
 ---
 

@@ -1,12 +1,14 @@
 ---
 layout: default
-title: "Narrative from Latin America"
+title: "The Latin American Narrative"
 permalink: /latin-america-narrative/
 ---
 
-## The Narrative of Absence: Latin America's View of India
+## Latin America: An Alignment by Default
 
-Unlike the deeply entrenched and often problematic narratives from Europe or China, the Latin American perception of India is largely a blank slate—a narrative defined by absence rather than antagonism. This presents a unique and powerful opportunity.
+The Latin American perception of India is a **narrative of alignment** by default. The relationship is a "blank slate," meaning the on-the-ground experience for an individual is free from the historical friction or geopolitical tension that defines other narratives.
+
+This absence of friction is, in itself, a powerful opportunity for proactive engagement.
 
 ---
 

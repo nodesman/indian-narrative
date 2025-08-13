@@ -4,7 +4,9 @@ title: "Deconstructing Anglophone Narratives"
 permalink: /anglophone-narrative/
 ---
 
-The "Anglophone Narrative" is arguably the most influential lens through which the world views India. However, it is not a monolith. It is a complex interplay of shared assumptions overlaid with the distinct national interests of its key players: the United States, the United Kingdom, and the Australia/New Zealand bloc.
+The Anglophone Narrative is a primary source of **friction** for individuals of Indian origin. This friction stems from a deep-seated post-colonial condescension and a strategic worldview that often reduces India to its utility in Western-led alliances. It is arguably the most influential and pervasive narrative through which the world views India.
+
+This page deconstructs the distinct national interests of its key players.
 
 <div class="tab-container">
   <div class="tab-buttons">

@@ -1,14 +1,14 @@
 ---
 layout: default
-title: "Narrative from Russia"
+title: "The Russian Narrative"
 permalink: /russia-narrative/
 ---
 
-## The Russian Narrative: A Friendship Under Strain
+## The Russian Narrative: A Strained Alignment
 
-The relationship between India and Russia is one of the most significant of the post-war era, built on a powerful legacy of partnership. However, the modern narrative is one of a time-tested friendship that is now being severely tested by the new realities of 21st-century geopolitics.
+The Russian narrative is a crucial **narrative of alignment**, but one that is under severe strain. For an individual, this means interacting with a culture that holds a deep reservoir of historical goodwill towards India, while navigating the geopolitical complexities of Russia's deep partnership with China and its rivalry with the United States.
 
-This makes Russia a "Narrative of Opportunity," but one fraught with deep and growing complexities.
+This makes Russia a complex but important relationship to understand.
 
 ---
 

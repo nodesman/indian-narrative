@@ -1,10 +1,12 @@
 ---
 layout: default
-title: "Challenging the Chinese Narrative"
+title: "The Chinese Narrative"
 permalink: /chinese-narrative/
 ---
 
-The modern Chinese narrative regarding India is a complex mixture of historical revisionism, strategic rivalry, and a state-controlled information environment that systematically downplays India's civilizational significance and contemporary power. This narrative is designed to bolster China's own sense of superiority and to undermine India's position in Asia and the world.
+The modern Chinese narrative regarding India is the most overtly hostile and competitive. For an individual, this translates into a **narrative of direct friction**, where engagement, particularly in digital spaces, is often characterized by aggressive trolling and state-backed propaganda designed to diminish India's standing.
+
+This narrative is a core component of China's strategy to achieve undisputed dominance in Asia.
 
 ### The Core Motivation: Zero-Sum Geopolitical Competition
 
