@@ -166,10 +166,22 @@ body {
   flex: 1;
 }
 
+.detail-pane .master-detail-container {
+  margin-top: 0;
+}
+
 .detail-content h3 {
   margin-top: 0;
   font-size: 1.8rem;
 }
+
+.detail-content h4 {
+  font-size: 1.4rem;
+  margin-top: 0;
+  border-bottom: 1px solid var(--sidebar-border);
+  padding-bottom: 0.5rem;
+}
+
 
 .full-width-content {
   width: 100%;

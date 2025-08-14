@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "The Pakistani Narrative: A Playbook for the Individual"
+title: "The Pakistani Narrative"
 permalink: /pakistan-narrative/
 ---
 
@@ -8,34 +8,51 @@ permalink: /pakistan-narrative/
   <span title="Pakistan" role="img" aria-label="Pakistan Flag">🇵🇰</span>
 </div>
 
-## The Pakistani Narrative: A Playbook for the Individual
+<div class="master-detail-container">
+  <div class="master-pane">
+    <a href="#strategic" class="master-link active">The State Narrative</a>
+    <a href="#reality" class="master-link">The Individual's Reality</a>
+    <a href="#playbook" class="master-link">The Individual's Playbook</a>
+  </div>
+  <div class="detail-pane">
+    <div id="strategic" class="detail-content">
+      <h3>The State Narrative: The Inimical State</h3>
+      <p>The official narrative of the Pakistani state is founded on an anti-Hindu ideology and the "Two-Nation Theory." Its core identity requires the framing of India as an existential threat. This is not a narrative of competition, but of annihilation, propagated through state-controlled education and media.</p>
+    </div>
+    <div id="reality" class="detail-content" style="display:none;">
+      <h3>The Individual's Reality: The "Operating System" of Contempt</h3>
+      <p>The on-the-ground experience for an Indian is a high probability of encountering an undercurrent of contempt and undeserved superiority, even from people who appear friendly. This is the predictable output of a 75-year state-run indoctrination program. Do not mistake cultural warmth (enjoying Bollywood, etc.) for an ideological override.</p>
+    </div>
+    <div id="playbook" class="detail-content" style="display:none;">
+      <h3>The Individual's Playbook: A Framework of Dignity</h3>
+      <p>The goal is not friendship; it is to protect your professional interests and your mental peace. The core principle is: <strong>Maintain Professional Distance. Demand Professional Respect.</strong></p>
+      <ul>
+        <li><strong>In Professional Settings:</strong> Your armor is impeccable professionalism. Be polite, be formal, and document everything. If contempt becomes discrimination, use the system (HR).</li>
+        <li><strong>In Social Settings:</strong> Be friendly, but not friends. The bar for personal trust is extraordinarily high and requires extraordinary evidence that they have overcome their programming.</li>
+      </ul>
+    </div>
+  </div>
+</div>
 
-The official narrative of the Pakistani state is **inimical** to India and is founded on an **anti-Hindu ideology**. For an individual of Indian origin, this translates into a high probability of encountering an undercurrent of contempt and undeserved superiority, even from people who appear friendly.
+<script>
+  const links = document.querySelectorAll('.master-link');
+  const contents = document.querySelectorAll('.detail-content');
 
-This is not your imagination. It is the predictable output of a 75-year state-run indoctrination program. This playbook is a guide to navigating this reality with dignity and self-preservation.
+  links.forEach(link => {
+    link.addEventListener('click', function(e) {
+      e.preventDefault();
+      const targetId = this.getAttribute('href').substring(1);
 
----
+      links.forEach(l => l.classList.remove('active'));
+      this.classList.add('active');
 
-### Understanding the "Operating System"
-
-The contempt you sense is the result of a specific ideological "software" installed from birth:
-
-*   **The Two-Nation Theory:** The foundational logic that Hindus and Muslims are irreconcilable enemies. To question this is to question the reason for Pakistan's existence.
-*   **Educational Indoctrination:** School textbooks that teach a history of Muslim heroes resisting Hindu oppression.
-*   **The "Martial Race" Myth:** A military-propagated myth of martial superiority over the "bania" Hindu.
-*   **Religious Superiority:** A state narrative that frames the conflict as Islam vs. Hinduism, encouraging contempt for Hindu beliefs.
-
-A person can be a decent "hardware," but they are running this software. Do not mistake cultural warmth (enjoying Bollywood, etc.) for an ideological override.
-
----
-
-### The Playbook: A Framework of Dignity
-
-The goal is not friendship; it is to protect your professional interests and your mental peace. The core principle is: **Maintain Professional Distance. Demand Professional Respect.**
-
-*   **If They Are Your Superior:** Your armor is impeccable professionalism. Keep all interactions focused on work. Be polite, be formal, and **document everything**. If their contempt manifests as professional discrimination, use the system (HR) and frame it as a violation of professional conduct.
-*   **If They Are Your Peer:** Be a collaborative and reliable colleague. Keep conversations in the "safe zone" (work, sports). If they stray into politics, politely deflect. The bar for a personal friendship is extraordinarily high and requires them to provide extraordinary evidence that they have overcome their programming.
-*   **If They Are Your Report:** Be a fair, firm, and objective manager. Your relationship is defined by the org chart. Give documented feedback based on performance. You have a zero-tolerance policy for any manifestation of their narrative (e.g., a bigoted comment) in the workplace.
-*   **If They Are Your Neighbor:** Be polite and distant. The friendly wave, the hello in the hallway. You are a good neighbor, not a source of conflict. You are not obligated to invite them into your home or your life.
-
-A relationship with someone who holds your being in contempt is not valuable. Your energy is better spent building relationships based on genuine, proven equality.
+      contents.forEach(content => {
+        if (content.id === targetId) {
+          content.style.display = 'block';
+        } else {
+          content.style.display = 'none';
+        }
+      });
+    });
+  });
+</script>
