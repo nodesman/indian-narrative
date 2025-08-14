@@ -44,7 +44,7 @@ permalink: /european-narrative/
     </div>
   </div>
 
-  <div id="pragmatists" class="tab-content">
+  <div id="pragmatists" class="tab-content" style="display:none;">
     <div class="master-detail-container">
       <div class="master-pane">
         <a href="#prag-strategic" class="master-link active">Core Motivation</a>
@@ -90,6 +90,12 @@ permalink: /european-narrative/
   function initializeMasterDetail(container) {
     const links = container.querySelectorAll('.master-link');
     const contents = container.querySelectorAll('.detail-content');
+
+    // Set the first item as active by default
+    if (links.length > 0) {
+      links[0].classList.add('active');
+      contents[0].style.display = 'block';
+    }
 
     links.forEach(link => {
       link.addEventListener('click', function(e) {

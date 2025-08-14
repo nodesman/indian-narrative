@@ -52,7 +52,7 @@ permalink: /anglophone-narrative/
     </div>
   </div>
 
-  <div id="uk" class="tab-content">
+  <div id="uk" class="tab-content" style="display:none;">
     <div class="master-detail-container">
       <div class="master-pane">
         <a href="#uk-strategic" class="master-link active">Strategic Narrative</a>
@@ -80,7 +80,7 @@ permalink: /anglophone-narrative/
     </div>
   </div>
 
-  <div id="aus-nz" class="tab-content">
+  <div id="aus-nz" class="tab-content" style="display:none;">
     <div class="master-detail-container">
       <div class="master-pane">
         <a href="#aus-nz-strategic" class="master-link active">Strategic Narrative</a>
@@ -108,7 +108,7 @@ permalink: /anglophone-narrative/
     </div>
   </div>
 
-  <div id="canada" class="tab-content">
+  <div id="canada" class="tab-content" style="display:none;">
     <div class="master-detail-container">
       <div class="master-pane">
         <a href="#canada-strategic" class="master-link active">Strategic Narrative</a>
@@ -152,13 +152,19 @@ permalink: /anglophone-narrative/
     targetTab.style.display = "block";
     evt.currentTarget.className += " active";
     
-    // Initialize the master-detail for the newly opened tab
+    // Initialize the master-detail for ONLY the newly opened tab
     initializeMasterDetail(targetTab);
   }
 
   function initializeMasterDetail(container) {
     const links = container.querySelectorAll('.master-link');
     const contents = container.querySelectorAll('.detail-content');
+
+    // Set the first item as active by default
+    if (links.length > 0) {
+      links[0].classList.add('active');
+      contents[0].style.display = 'block';
+    }
 
     links.forEach(link => {
       link.addEventListener('click', function(e) {
