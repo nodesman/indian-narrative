@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: full-width
 title: "The Bangladeshi Narrative"
 permalink: /bangladesh-narrative/
 ---

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: full-width
 title: "Deconstructing Anglo Narratives"
 permalink: /anglophone-narrative/
 ---

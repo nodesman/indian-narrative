@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: full-width
 title: "The South Korean Narrative"
 permalink: /south-korea-narrative/
 ---

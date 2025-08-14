@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: full-width
 title: "Deconstructing European Narratives"
 permalink: /european-narrative/
 ---
