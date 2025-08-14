@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: full-width
 title: "The Irish Narrative"
 permalink: /ireland-narrative/
 ---

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: full-width
 title: "The Japanese Narrative"
 permalink: /japan-narrative/
 ---

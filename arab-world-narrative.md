@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: full-width
 title: "The Arab World Narrative"
 permalink: /arab-world-narrative/
 ---

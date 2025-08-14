@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: full-width
 title: "The Russian Narrative"
 permalink: /russia-narrative/
 ---

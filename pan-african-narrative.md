@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: full-width
 title: "The Pan-African Narrative"
 permalink: /pan-african-narrative/
 ---

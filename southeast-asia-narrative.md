@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: full-width
 title: "Southeast Asian Narratives"
 permalink: /southeast-asia-narrative/
 ---

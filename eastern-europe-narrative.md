@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: full-width
 title: "The Eastern European Narrative"
 permalink: /eastern-europe-narrative/
 ---

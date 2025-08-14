@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: full-width
 title: "The Latin American Narrative"
 permalink: /latin-america-narrative/
 ---
