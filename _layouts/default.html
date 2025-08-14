@@ -8,15 +8,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Lora:wght@400;700&family=Roboto:wght@400;700&display=swap" rel="stylesheet">
   </head>
   <body>
-    <header class="mobile-header">
-      <button class="menu-toggle" id="menu-toggle" aria-label="Open navigation menu">
-        &#9776;
-      </button>
-      <div class="mobile-header-title">
-        <a href="{{"/" | relative_url }}">The Indian Narrative</a>
-      </div>
-    </header>
-    <aside class="sidebar" id="sidebar">
+    <aside class="sidebar">
       <div class="sidebar-header">
         <a href="{{"/" | relative_url }}">The Indian Narrative</a>
       </div>
@@ -118,21 +110,6 @@
             ext: '.svg'
         });
       };
-    </script>
-    <script>
-      // Mobile menu toggle
-      const menuToggle = document.getElementById('menu-toggle');
-      const sidebar = document.getElementById('sidebar');
-      const mainContent = document.querySelector('.main-content');
-
-      menuToggle.addEventListener('click', function() {
-        sidebar.classList.toggle('open');
-      });
-
-      // Close sidebar if user clicks outside of it
-      mainContent.addEventListener('click', function() {
-        sidebar.classList.remove('open');
-      });
     </script>
   </body>
 </html>
