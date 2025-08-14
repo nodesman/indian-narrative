@@ -9,7 +9,7 @@ const puppeteer = require('puppeteer');
     });
     const page = await browser.newPage();
 
-    const url = 'http://127.0.0.1:4000/';
+    const url = 'http://127.0.0.1:4000';
     console.log(`Navigating to ${url}...`);
     await page.goto(url, { waitUntil: 'networkidle2' });
 
