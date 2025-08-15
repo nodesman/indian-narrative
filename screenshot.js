@@ -17,7 +17,7 @@ const puppeteer = require('puppeteer');
     const bodyHandle = await page.$('body');
     const { height } = await bodyHandle.boundingBox();
     await bodyHandle.dispose();
-    await page.setViewport({ width: 1280, height: Math.ceil(height) });
+    await page.setViewport({ width: 375, height: Math.ceil(height) });
 
 
     const timestamp = new Date().toISOString().replace(/:/g, '-').slice(0, -5);
