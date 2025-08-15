@@ -489,3 +489,44 @@ hr {
     display: none;
   }
 }
+
+/* --- Accordion --- */
+.accordion {
+  display: none;
+}
+
+@media (max-width: 768px) {
+  .master-detail-container {
+    display: none;
+  }
+
+  .accordion {
+    display: block;
+  }
+
+  .accordion-item {
+    border-bottom: 1px solid var(--sidebar-border);
+  }
+
+  .accordion-header {
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    display: block;
+    font-size: 1.2rem;
+    padding: 1rem;
+    text-align: left;
+    width: 100%;
+  }
+
+  .accordion-header:hover {
+    background-color: var(--link-hover-bg);
+  }
+
+  .accordion-content {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.2s ease-out;
+    padding: 0 1rem;
+  }
+}

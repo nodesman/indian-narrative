@@ -21,18 +21,17 @@ permalink: /anglophone-narrative/
   </div>
 
   <div id="us" class="tab-content" style="display:block;">
-    <div class="master-detail-container">
-      <div class="master-pane">
-        <a href="#us-strategic" class="master-link active">Strategic Narrative</a>
-        <a href="#us-reality" class="master-link">Individual's Reality</a>
-        <a href="#us-playbook" class="master-link">Individual's Playbook</a>
-      </div>
-      <div class="detail-pane">
-        <div id="us-strategic" class="detail-content">
+    <div class="accordion">
+      <div class="accordion-item">
+        <button class="accordion-header">Strategic Narrative</button>
+        <div class="accordion-content">
           <h4>The "Model Minority" Trap</h4>
           <p>The US state sees India as a vital "democratic counterweight" to China. This is a pragmatic, unsentimental framing that defines India's value by its utility in America's great power competition.</p>
         </div>
-        <div id="us-reality" class="detail-content" style="display:none;">
+      </div>
+      <div class="accordion-item">
+        <button class="accordion-header">Individual's Reality</button>
+        <div class="accordion-content">
           <h4>The Individual's Reality</h4>
           <p>You are likely to encounter the "Model Minority" stereotype. This is a double-edged sword:</p>
           <ul>
@@ -40,7 +39,10 @@ permalink: /anglophone-narrative/
             <li><strong>The "Negative" (The Trap):</strong> This stereotype is incredibly limiting, often confining you to the "techie" box while ignoring leadership potential. It also creates a divisive wedge between Indian-Americans and other minority groups.</li>
           </ul>
         </div>
-        <div id="us-playbook" class="detail-content" style="display:none;">
+      </div>
+      <div class="accordion-item">
+        <button class="accordion-header">Individual's Playbook</button>
+        <div class="accordion-content">
           <h4>The Individual's Playbook</h4>
           <ol>
             <li><strong>Reject the Box:</strong> Actively push back against the stereotype by taking on leadership roles and demonstrating creative, strategic thinking.</li>
@@ -109,22 +111,24 @@ permalink: /anglophone-narrative/
   </div>
 
   <div id="canada" class="tab-content" style="display:none;">
-    <div class="master-detail-container">
-      <div class="master-pane">
-        <a href="#canada-strategic" class="master-link active">Strategic Narrative</a>
-        <a href="#canada-reality" class="master-link">Individual's Reality</a>
-        <a href="#canada-playbook" class="master-link">Individual's Playbook</a>
-      </div>
-      <div class="detail-pane">
-        <div id="canada-strategic" class="detail-content">
+    <div class="accordion">
+      <div class="accordion-item">
+        <button class="accordion-header">Strategic Narrative</button>
+        <div class="accordion-content">
           <h4>The Narrative of Permissive Hostility</h4>
           <p>Officially, the Canadian state seeks a strong relationship with India based on trade and a large, successful diaspora. However, this is undermined by the state's permissive attitude towards anti-India extremism.</p>
         </div>
-        <div id="canada-reality" class="detail-content" style="display:none;">
+      </div>
+      <div class="accordion-item">
+        <button class="accordion-header">Individual's Reality</button>
+        <div class="accordion-content">
           <h4>The Individual's Reality</h4>
           <p>The friction is a jarring disconnect between a generally welcoming multicultural society and the state's tolerance of Khalistani extremism. For an individual, this is the unsettling knowledge that the country you live in provides a safe haven to groups that seek to dismember your country of origin.</p>
         </div>
-        <div id="canada-playbook" class="detail-content" style="display:none;">
+      </div>
+      <div class="accordion-item">
+        <button class="accordion-header">Individual's Playbook</button>
+        <div class="accordion-content">
           <h4>The Individual's Playbook</h4>
           <ol>
             <li><strong>Recognize the Disconnect:</strong> The issue is not with the average person, but with a failure of the Canadian state.</li>
@@ -187,4 +191,22 @@ permalink: /anglophone-narrative/
 
   // Initialize the master-detail for the default active tab on page load
   initializeMasterDetail(document.querySelector('.tab-content[style*="display:block"]'));
+</script>
+<script>
+  const accordionHeaders = document.querySelectorAll('.accordion-header');
+
+  accordionHeaders.forEach(header => {
+    header.addEventListener('click', () => {
+      const accordionItem = header.parentElement;
+      const accordionContent = accordionItem.querySelector('.accordion-content');
+
+      accordionItem.classList.toggle('active');
+
+      if (accordionItem.classList.contains('active')) {
+        accordionContent.style.maxHeight = accordionContent.scrollHeight + 'px';
+      } else {
+        accordionContent.style.maxHeight = 0;
+      }
+    });
+  });
 </script>

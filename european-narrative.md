@@ -45,22 +45,24 @@ permalink: /european-narrative/
   </div>
 
   <div id="pragmatists" class="tab-content" style="display:none;">
-    <div class="master-detail-container">
-      <div class="master-pane">
-        <a href="#prag-strategic" class="master-link active">Core Motivation</a>
-        <a href="#prag-reality" class="master-link">Individual's Reality</a>
-        <a href="#prag-playbook" class="master-link">Individual's Playbook</a>
-      </div>
-      <div class="detail-pane">
-        <div id="prag-strategic" class="detail-content">
+    <div class="accordion">
+      <div class="accordion-item">
+        <button class="accordion-header">Core Motivation</button>
+        <div class="accordion-content">
           <h4>A Competition of Models</h4>
           <p>This narrative is less about a colonial past and more about a present-day sense of moral or procedural superiority. The motivation is to project their own national models (German economic order, Nordic social values) as the universal standard.</p>
         </div>
-        <div id="prag-reality" class="detail-content" style="display:none;">
+      </div>
+      <div class="accordion-item">
+        <button class="accordion-header">Individual's Reality</button>
+        <div class="accordion-content">
           <h4>The Individual's Reality: The "Critical" Gaze</h4>
           <p>The friction for an individual comes from a constant, often one-sided, critique. German media will focus relentlessly on India's social problems. Nordic engagement will be almost exclusively focused on a narrow set of "values." Both approaches, while sometimes well-intentioned, create a skewed and negative picture.</p>
         </div>
-        <div id="prag-playbook" class="detail-content" style="display:none;">
+      </div>
+      <div class="accordion-item">
+        <button class="accordion-header">Individual's Playbook</button>
+        <div class="accordion-content">
           <h4>The Individual's Playbook</h4>
           <p>Be prepared for a "values-based" or "problems-based" critique. The response is not defensiveness, but a confident articulation of India's own complex path of development, a story they have likely never heard. Frame your counter-narrative in the language of a fellow democracy solving its own problems in its own way.</p>
         </div>
